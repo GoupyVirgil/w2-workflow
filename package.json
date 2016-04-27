@@ -1,0 +1,25 @@
+{
+  "name": "w2-workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoupyVirgil/w2-workflow.git"
+  },
+  "author": "GV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoupyVirgil/w2-workflow/issues"
+  },
+  "homepage": "https://github.com/GoupyVirgil/w2-workflow#readme",
+  "dependencies": {
+    "jquery": "^2.2.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
